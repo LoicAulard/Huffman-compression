@@ -1,0 +1,11 @@
+Comilation:
+pour compiler les programme, taper la commande 'make'.
+
+Compilation:
+Pour compiler un fichier:
+./compresse.exe fichier_source fichier_destination [taille des blocs en nombre de bits].
+
+
+Décompression:
+Pour décompresser un fichier compressé avec compresse.exe:
+./decompresse fichier_source fichier_destination.
